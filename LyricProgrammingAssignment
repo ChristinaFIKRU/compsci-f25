@@ -1,0 +1,14 @@
+//Created by:Christina Fikru
+//Created on:09/08/2025
+// Lyric programming assignment 
+public class LyricProgrammingAssignment
+
+{
+
+	public static void main (String[] args)
+	{
+		//this is where the code goes
+		System.out.println("Already gave you the time and the place");
+	}
+
+}
