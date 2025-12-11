@@ -2,8 +2,8 @@
 // 12/09/2025
 // prompts user to enter a file name and displays the occurrences of each letter in the file
 
-import java.util.*;
 import java.io.*;
+import java.util.*;
 
 public class OccurrencesOfLetter {
     public static void main(String[] args) throws Exception {
